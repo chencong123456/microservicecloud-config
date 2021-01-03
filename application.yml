@@ -13,3 +13,4 @@ spring:
   application:
     name: microservicecloud-config-qigehulu-test
 # 保存为utf-8格式
+简单测试文件
